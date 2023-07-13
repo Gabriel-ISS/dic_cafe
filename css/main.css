@@ -87,7 +87,10 @@ dt {
 /*6*/
 footer {
   background-color: #251e19;
+  position: absolute;
+  bottom: -75px;
   height: 75px;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
